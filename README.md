@@ -3,3 +3,5 @@ product review based on the text of the review.
 The model takes in the preprocessed and cleaned text of a product review as input and predicts a numerical score,
 which is a representation of the score given by the reviewer.
 
+to try the Model open the file : "product score predicter.py"
+make sure to put other files paths in the code .
